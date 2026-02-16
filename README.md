@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer at a US-based startup building scalable backend systems and distributed architectures. I develop high-performance APIs, microservices, and event-driven systems with a focus on clean design, scalability, and production reliability.
+Software Engineer at a US-based startup(PodUp) building scalable backend systems and distributed architectures. I develop high-performance APIs, microservices, and event-driven systems with a focus on clean design, scalability, and production reliability.
 
 
 ## 🌐 Socials:
